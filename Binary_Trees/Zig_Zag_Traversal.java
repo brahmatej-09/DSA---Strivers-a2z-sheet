@@ -1,4 +1,4 @@
-package Binary_Tress;
+package Binary_Trees;
 import java.util.*;
 public class Zig_Zag_Traversal {
      static class TreeNode {
